@@ -1,1 +1,5 @@
-#define _CRT_SECURE_NO_WARNINGS
+#include"Seqlist.h"
+void SeqListInit(SeqList* ps)
+{
+
+}

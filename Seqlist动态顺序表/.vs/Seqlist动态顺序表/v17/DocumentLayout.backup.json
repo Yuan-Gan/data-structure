@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C731FF7B-8D76-4803-B4FF-D7256348FEEE}|Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868.vcxproj|D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C731FF7B-8D76-4803-B4FF-D7256348FEEE}|Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868.vcxproj|solutionrelative:Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731FF7B-8D76-4803-B4FF-D7256348FEEE}|Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868.vcxproj|D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C731FF7B-8D76-4803-B4FF-D7256348FEEE}|Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868.vcxproj|solutionrelative:Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C731FF7B-8D76-4803-B4FF-D7256348FEEE}|Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868.vcxproj|D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C731FF7B-8D76-4803-B4FF-D7256348FEEE}|Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868.vcxproj|solutionrelative:Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seqlist.h",
+              "DocumentMoniker": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.h",
+              "RelativeDocumentMoniker": "Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.h",
+              "ToolTip": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.h",
+              "RelativeToolTip": "Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T15:16:40.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seqlist.c",
+              "DocumentMoniker": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.c",
+              "RelativeDocumentMoniker": "Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.c",
+              "ToolTip": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.c",
+              "RelativeToolTip": "Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-08T15:16:31.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\test.c",
+              "RelativeDocumentMoniker": "Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\test.c",
+              "ToolTip": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\data-structure\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\test.c",
+              "RelativeToolTip": "Seqlist\u52A8\u6001\u987A\u5E8F\u8868\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-08T15:16:16.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
