@@ -56,7 +56,7 @@ void SeqListPopFront(SeqList* ps)
 }
 void SeqListPopBack(SeqList* ps)
 {
-	assert(ps && ps->size);
+	assert(ps && ps->size);//顺序表不能为空
 	ps->size--;
 
 }
