@@ -1,0 +1,22 @@
+﻿  test.c
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(13,36): warning C4013: “malloc”未定义；假设外部返回 int
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(13,43): error C2027: 使用了未定义类型“ListNode”
+      D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(9,16):
+      参见“ListNode”的声明
+  
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(13,25): warning C4312: “类型强制转换”: 从“int”转换到更大的“ListNode *”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(14,5): error C2037: “val”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(15,5): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(15,21): error C2065: “NULL”: 未声明的标识符
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(28,9): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(29,17): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(31,5): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(38,22): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(40,12): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(45,13): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(45,26): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(46,13): warning C4013: “free”未定义；假设外部返回 int
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(47,20): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(52,20): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(56,12): error C2037: “val”的左侧部分指定未定义的结构/联合“ListNode”
+D:\蓝桥杯算法竞赛\data-structure\牛客环形链表的约瑟夫问题\牛客环形链表的约瑟夫问题\test.c(56,5): warning C4033: “ysf”必须返回值
