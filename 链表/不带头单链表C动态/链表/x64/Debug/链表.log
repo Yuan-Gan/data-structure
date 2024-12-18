@@ -1,0 +1,5 @@
+﻿  slist.c
+D:\蓝桥杯算法竞赛\数据结构\链表\链表\slist.c(36,2): warning C4098: “SListPushBack”:“void”函数返回值
+  test.c
+  正在生成代码...
+  链表.vcxproj -> D:\蓝桥杯算法竞赛\数据结构\链表\x64\Debug\链表.exe

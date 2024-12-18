@@ -1,0 +1,5 @@
+﻿  list.c
+  test.c
+  正在生成代码...
+D:\蓝桥杯算法竞赛\data-structure\List双向循环带头链表\List双向循环带头链表\list.c(89,1): warning C4715: “ListFind”: 不是所有的控件路径都返回值
+  List双向循环带头链表.vcxproj -> D:\蓝桥杯算法竞赛\data-structure\List双向循环带头链表\x64\Debug\List双向循环带头链表.exe

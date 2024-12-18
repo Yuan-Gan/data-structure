@@ -1,0 +1,3 @@
+﻿  slist.cpp
+D:\蓝桥杯算法竞赛\C++链表\静态实现链表\静态实现链表\slist.cpp(5,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  静态实现链表.vcxproj -> D:\蓝桥杯算法竞赛\C++链表\静态实现链表\x64\Debug\静态实现链表.exe
