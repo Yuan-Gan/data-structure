@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\data-structure\\\u94FE\u8868oj\u9898\u76EE\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3237E00A-F9FB-4F77-B17E-36156C1568A2}|\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F.vcxproj|D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\data-structure\\\u94FE\u8868oj\u9898\u76EE\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3237E00A-F9FB-4F77-B17E-36156C1568A2}|\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F.vcxproj|solutionrelative:\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\data-structure\\\u94FE\u8868oj\u9898\u76EE\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6E90.cpp",
+              "ToolTip": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\data-structure\\\u94FE\u8868oj\u9898\u76EE\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6E90.cpp",
+              "RelativeToolTip": "\u6D1B\u8C37B3630 \u6392\u961F\u987A\u5E8F\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T04:06:37.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
