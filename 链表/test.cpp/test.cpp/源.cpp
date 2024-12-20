@@ -1,22 +1,23 @@
-#include<iostream>
-#include<string>
-#include<algorithm>
-
+#include <iostream>
+#include <string>
 using namespace std;
 
-struct Cmp
-{
-	bool operator()(int x, int y)
-	{
-		return x > y;
-	}
+int main() {
+    string s;
+    cin >> s;
 
-}cmp;
-int main()
-{
-	string s("abxxxxedgo");
-	sort(s.begin(), s.end(), cmp);
-	for (auto e : s) cout << e << " ";
-	cout << endl;
-	return 0;
+    int flag = true;
+    for (int i = 0; i < 6; i++)
+    {
+        if (i >= 1 && i % 2 != 0)
+        {
+            if (s[i - 2] != s[i]) flag = false;
+        }
+        else if (i >= 2 && i % 2 == 0)
+            if (s[i - 2] == s[i]) flag = false;
+    }
+        
+    if (flag) cout << "Yes" << endl;
+    else cout << "No" << endl;
+    return 0;
 }
