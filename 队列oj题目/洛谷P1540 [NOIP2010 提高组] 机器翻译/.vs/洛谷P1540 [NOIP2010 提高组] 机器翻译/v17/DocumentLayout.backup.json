@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\data-structure\\\u961F\u5217oj\u9898\u76EE\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F2F223-838F-4C00-B136-7D9E9D6EFA9D}|\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1.vcxproj|D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\data-structure\\\u961F\u5217oj\u9898\u76EE\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\testp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F2F223-838F-4C00-B136-7D9E9D6EFA9D}|\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1.vcxproj|solutionrelative:\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\testp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testp.cpp",
+              "DocumentMoniker": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\data-structure\\\u961F\u5217oj\u9898\u76EE\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\testp.cpp",
+              "RelativeDocumentMoniker": "\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\testp.cpp",
+              "ToolTip": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\\data-structure\\\u961F\u5217oj\u9898\u76EE\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\testp.cpp*",
+              "RelativeToolTip": "\u6D1B\u8C37P1540 [NOIP2010 \u63D0\u9AD8\u7EC4] \u673A\u5668\u7FFB\u8BD1\\testp.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T04:31:23.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
